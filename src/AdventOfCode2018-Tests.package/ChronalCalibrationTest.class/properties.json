@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SUnitTest",
+	"category" : "AdventOfCode2018-Tests-Day1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ChronalCalibrationTest",
+	"type" : "normal"
+}

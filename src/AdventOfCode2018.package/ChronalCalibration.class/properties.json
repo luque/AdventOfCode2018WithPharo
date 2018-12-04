@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "RafaelLuque 12/3/2018 22:40",
+	"super" : "Object",
+	"category" : "AdventOfCode2018-Day1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"resultingFrequency",
+		"firstFrequencyReachedTwice",
+		"frequencyChanges",
+		"startingFrequency"
+	],
+	"name" : "ChronalCalibration",
+	"type" : "normal"
+}
